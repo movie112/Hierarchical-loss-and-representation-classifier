@@ -12,7 +12,7 @@
 ## 1.2. 사전 학습 모델을 활용한 레이블 임베딩 테이블
 ![image](https://user-images.githubusercontent.com/74829786/205135787-ae5efe44-b467-4504-a194-bc1702f4e38a.png)
 * 사전 학습 언어모델(KorSciBERT)을 사용하여 레이블 임베딩 테이블 초기화
-* 학습과 함께 레이블 임베딩 테이블과 BiLSTM 레이어 파라미터 업데이트
+* 학습과 함께 레이블 임베딩 테이블과 Bi-LSTM 레이어 파라미터 업데이트
 
 ## 1.3. 계층적 손실함수
 ![image](https://user-images.githubusercontent.com/74829786/205136401-83b8abfb-ebf1-4ef2-8391-12a4e82f2f74.png)
