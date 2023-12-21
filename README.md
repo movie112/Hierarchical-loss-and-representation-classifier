@@ -1,6 +1,10 @@
 # Hierarchical loss, representation, and label embedding with plm classifier
 #### *계층적 loss 및 representation과 레이블 임베딩을 이용한 논문 문장 수사학적 분류 모델(국내 논문 문장 의미 태깅 모델 개발)*
-### 🏆 KISTI 2022 과학기술 공공 AI 데이터 분석활용 경진대회 국회도서관 장관상(장려상, 상금 100만원) 수상! 🏆
+### 🏆 KISTI 2022 과학기술 공공 AI 데이터 분석활용 경진대회 국회도서관 장관상(장려상, 상금 100만원) 수상
+`국희진`: 모델링, 전체 코드 작성    
+`김영화`: 모델링    
+`윤세휘`: 데이터 전처리, 웹 페이지    
+`강병하`: 웹 페이지
 ***
 ![image](https://user-images.githubusercontent.com/74829786/205135412-19c68cd9-c875-44d2-9342-f15309c99122.png)
 
@@ -32,3 +36,7 @@
 ## 2.2. 섹션명(위치 정보) 사용하였을 경우
 ![image](https://user-images.githubusercontent.com/74829786/205137268-d09a25a1-5d14-4a12-b8de-e0d5fe699030.png)
 
+***
+### 3. References
+* *https://github.com/Ugenteraan/Deep_Hierarchical_Classification*
+* *https://aida.kisti.re.kr/data/8d0fd6f4-4bf9-47ae-bd71-7d41f01ad9a6/gallery/17*
